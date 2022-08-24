@@ -1,0 +1,2 @@
+prompt("");
+console.log(cell);
